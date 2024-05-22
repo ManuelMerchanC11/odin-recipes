@@ -1,0 +1,13 @@
+body h2 {
+    background-color: beige;
+    text-align: center;
+}
+h1 {
+    color: white;
+    background-color: black;
+}
+
+ol li {
+    background-color: cadetblue;
+    font-weight: bold;
+}
